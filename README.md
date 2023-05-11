@@ -15,10 +15,11 @@
 3. [Building a custom Solana Faucet with Next.js, web3.js and Phantom wallet](https://sanjayrajesh.hashnode.dev/custom-solana-faucet-using-nextjs-part-1)
 
 #### Projects: 
-1. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
-2. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
-3. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
-4. 
+1. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more. 
+2. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
+3. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
+4. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayrjs16&show_icons=true&locale=en" alt="sanjayrjs16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrjs16&" alt="sanjayrjs16" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrjs16&" alt="sanjayrjs16" /></p> -->
