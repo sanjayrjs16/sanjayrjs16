@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/11468488/sanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11468488/sanjay" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sanjayrjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sanjayrjs" height="30" width="40" /></a>
 <a href="https://medium.com/@sanjayrjs16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjayrjs16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sanjayrjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@sanjayrjs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sanjayrjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@codefee" height="30" width="40" /></a>
 </p>
 
 
