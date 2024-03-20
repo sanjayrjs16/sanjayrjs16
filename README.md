@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://sanjayrjs.vercel.app/](https://sanjayrjs.vercel.app/)
 
 
-#### Youtube : https://www.youtube.com/@codefee
+#### Youtube : [Let the devs cook](https://www.youtube.com/@letthedevscook)
 
 #### Blogs:
 1. [Is Proof of Stake (PoS) a game changer and what it means for blockchains and web3 ?](https://dev.to/sanjayrjs16/the-gist-of-proof-of-stake-pos-39h2)
