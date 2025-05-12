@@ -6,19 +6,23 @@
 
 #### Website: [https://sanjayrajesh.in/](https://sanjayrajesh.in/)
 
-
 #### Youtube : [Let the devs cook](https://www.youtube.com/@letthedevscook)
 
+
+#### Projects: 
+1. [Aadujeevitham: The Goatlife(2024) - OFFICIAL MOVIE WEBSITE](https://thegoatlifefilm.com) - Official promotional website for movie, launched by A R Rahman, Blessy and Benjamin.
+2. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
+3. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
+4. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
+5. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more.
+
+   
 #### Blogs:
 1. [Is Proof of Stake (PoS) a game changer and what it means for blockchains and web3 ?](https://dev.to/sanjayrjs16/the-gist-of-proof-of-stake-pos-39h2)
 2. [Cashing In on Caching as a Frontend Engineer](https://betterprogramming.pub/cashing-in-on-caching-as-a-frontend-engineer-611a7c57f6b5)
 3. [Building a custom Solana Faucet with Next.js, web3.js and Phantom wallet](https://sanjayrajesh.hashnode.dev/custom-solana-faucet-using-nextjs-part-1)
 
-#### Projects: 
-1. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
-2. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
-3. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
-4. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more. 
+
  
 
 <h3 align="left">Connect with me:</h3>
