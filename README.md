@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">I am a software engineer specialising on Frontend engineering. I love exploring new tech mainly through OpenSource work and tinkering hobby projects.</h3>
+<h1 align="center">Hey there 👋, I'm Sanjay</h1>
+<h3 align="center">I build stuff on the web for a living :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayrjs16&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayrjs16" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://sanjayrjs.vercel.app/](https://sanjayrjs.vercel.app/)
+#### Website: [https://sanjayrajesh.in/](https://sanjayrajesh.in/)
 
 
 #### Youtube : [Let the devs cook](https://www.youtube.com/@letthedevscook)
@@ -15,10 +15,10 @@
 3. [Building a custom Solana Faucet with Next.js, web3.js and Phantom wallet](https://sanjayrajesh.hashnode.dev/custom-solana-faucet-using-nextjs-part-1)
 
 #### Projects: 
-1. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more. 
+1. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
 2. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
 3. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
-4. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
+4. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more. 
  
 
 <h3 align="left">Connect with me:</h3>
