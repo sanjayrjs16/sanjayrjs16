@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sanjay</h1>
+<h1 align="center">Hey, I'm Sanjay</h1>
 <h3 align="center">I build stuff on the web for a living :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayrjs16&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayrjs16" /> </p>
@@ -24,7 +24,7 @@
 
 
  
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sanjayrjs16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sanjayrjs16" height="30" width="40" /></a>
