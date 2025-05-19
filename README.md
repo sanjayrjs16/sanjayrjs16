@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm Sanjay</h1>
 <h3 align="center">I build stuff on the web for a living :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayrjs16&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayrjs16" /> </p>
