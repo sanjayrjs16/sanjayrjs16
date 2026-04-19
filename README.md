@@ -3,17 +3,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayrjs16&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayrjs16" /> </p>
 
 
-#### Website: [https://sanjayrajesh.in/](https://sanjayrajesh.in/)
+#### Portfolio [https://sanjayrajesh.in/](https://sanjayrajesh.in/)
 
 #### Youtube : [Let the devs cook](https://www.youtube.com/@letthedevscook)
 
 
 #### Projects: 
-1. [Aadujeevitham: The Goatlife(2024) - OFFICIAL MOVIE WEBSITE](https://thegoatlifefilm.com) - Official promotional website for movie, launched by A R Rahman, Blessy and Benjamin.
-2. [CoronaSafe Chatbot](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
-3. [Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
-4. [Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
-5. [SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more.
+
+[Aadujeevitham: The Goatlife(2024) - OFFICIAL MOVIE WEBSITE](https://thegoatlifefilm.com) - Official promotional website for movie, launched by A R Rahman, Blessy and Benjamin.
+ 
+[Sun Road Co. ](https://sunroad.io) - Platform that helps creatives showcase their works and be found. (0 to 1, gained 520+ users in Q1 post launch)
+
+[CoronaSafe Chatbot (Opensource)](https://www.youtube.com/watch?v=A81YflXaZKQ) - Covid Information chatbot for CoronaSafe Network helping Kerala Govt. fight the pandemic.
+ 
+[Picturama Dapp](https://picturama-defi.netlify.app/) - Funding independent film creators with power of web3 and DeFi. (Chainlink Hackathon submission - Won FileCoin Pool prize)
+
+[Solana Faucet](stardust-solana-faucet.vercel.app/) - Faucet that airdrops SOL tokens on dev/test net to build DApps on Solana
+
+[SpaceX dashboard](https://thespacexdashboard.netlify.app/launches) - A dashboard showcasing latest SpaceX stats and more.
 
    
 #### Blogs:
